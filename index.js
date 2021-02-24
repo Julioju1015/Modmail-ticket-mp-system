@@ -3,7 +3,6 @@ const { readdirSync, readFileSync } = require("fs")
 const chalk = require("chalk")
 const moment = require("moment")
 
-
 const client = new Client()
 client.commands = new Collection()
 client.categories = readdirSync("./Command")

@@ -1,0 +1,27 @@
+{
+  "name": "modmail-ticket-mp-system",
+  "version": "1.0.0",
+  "description": "Bot discord de ticket en mp",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "fs": "^0.0.1-security",
+    "discord.js": "^12.5.1",
+    "moment": "^2.29.1",
+    "hastebin-save": "^1.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julioju1015/Modmail-ticket-mp-system.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Julioju1015/Modmail-ticket-mp-system/issues"
+  },
+  "homepage": "https://github.com/Julioju1015/Modmail-ticket-mp-system#readme"
+}

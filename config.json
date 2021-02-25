@@ -1,0 +1,8 @@
+{
+    "token": "votre token",
+    "support_id": "id support",
+    "ticket_fr": "id de la categorie ticket fr",
+    "ticket_engl": "id de la categorie ticket en",
+    "ticket_esp": "id de la catgegorie ticket esp",
+    "log_channel": "id de la channel ticket logs"
+}

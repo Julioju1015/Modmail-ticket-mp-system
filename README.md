@@ -1,7 +1,7 @@
 # Modmail Ticket MP
 Discord.js Bot Modmail ticket en mp
 
-### 👻 Invitation du bot et support
+### 💖Si besoins d'aide
 
 - [Mon serveur discord de support](https://discord.com/invite/TjSDZmVWvs)
 
